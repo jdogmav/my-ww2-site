@@ -6,7 +6,7 @@ body {
 }
 /****************Nav Styles************/
 .nav-bar {
-    height: 70px;
+    height: 200px;
     width: 100%;
     background-color: #ffcc00; /* goldenrod */
     position: fixed;
