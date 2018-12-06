@@ -6,7 +6,7 @@ body {
 }
 /****************Nav Styles************/
 .nav-bar {
-    height: 200px;
+    height: 70px;
     width: 100%;
     background-color: #ffcc00; /* goldenrod */
     position: fixed;
@@ -146,7 +146,7 @@ body {
 
 .col {
     height: 700px;
-    width: 30%;
+    width: 29%;
     border: 3px solid blue;
     float: left;
     margin-top: 80px;
